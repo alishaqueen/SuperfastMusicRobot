@@ -17,17 +17,17 @@
         "ASSISTANT_USERNAME": {
             "description": "Fill with your assistant username without @",
             "required": true,
-            "value": "alexavc"
+            "value": "Queen_Alisha"
         },
         "OWNER_USERNAME": {
             "description": "Fill With your (Bot Owner) username without @",
             "required": true,
-            "value": "AdityaHalder"
+            "value": "Venom_Hai_Hum"
         },
         "BOT_USERNAME": {
             "description": "Fill with your bot username without @",
             "required": true,
-            "value": "alexavcbot"
+            "value": "Queen_Alisha_Robot"
         },
         "BOT_TOKEN": {
             "description": "Your bot token from @BotFather",
@@ -36,12 +36,12 @@
         "BG_IMAGE": {
             "description": "For background image if you playing",
             "required": true,
-            "value": "https://telegra.ph/file/0f6f8a8a5ad69fe5ecf3d.png"
+            "value": "https://telegra.ph/file/49903f106f084a2e1e1c6.jpg"
         },
         "BOT_IMAGE": {
             "description": "For Private When Giving /start Command to Bot",
             "required": true,
-            "value": "https://te.legra.ph/file/667cb388d717911046a16.png"
+            "value": "https://telegra.ph/file/9fe9b2ba35f9b77db3aec.jpg"
         },
         "DURATION_LIMIT": {
             "description": "Duration limit for your musicplayer (in minutes).",

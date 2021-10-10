@@ -1,9 +1,9 @@
 {
-    "name": "Music Player",
-    "logo": "https://telegra.ph/file/abbba622b483d56d79688.png",
+    "name": "Alisha Music Player",
+    "logo": "https://telegra.ph/file/49903f106f084a2e1e1c6.jpg",
     "description": "An Advanced Superfast Vc Music Player for Telegram Group ...",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/AdityaHalder/MusicPlayer",
+    "repository": "https://github.com/alishaqueen/SuperfastMusicRobot",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -46,7 +46,7 @@
         "DURATION_LIMIT": {
             "description": "Duration limit for your musicplayer (in minutes).",
             "required": true,
-            "value": "10"
+            "value": "60"
         },
         "SESSION_NAME": {
             "description": "Pyrogram String Session ...",
@@ -56,12 +56,12 @@
         "UPDATES_CHANNEL": {
             "description": "Fill with your channel username without @, if you haven't one you can leave it default",
             "required": false,
-            "value": "adityaserver"
+            "value": "ABOUTABHI"
         },
         "SUPPORT_GROUP": {
             "description": "Fill with your group username without @, if your haven't one you can leave it default",
             "required": false,
-            "value": "adityaworldx"
+            "value": "Shayri_Music_Lovers"
         },
         "SUDO_USERS": {
             "description": "Fill with ID who you made a admin for bot (separate with space).",
